@@ -1,0 +1,11 @@
+.env
+
+# Elixir/Mix
+_build/
+deps/
+*.beam
+
+# IDE
+.idea/
+.vscode/
+*.swp
